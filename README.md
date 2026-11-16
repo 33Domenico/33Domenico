@@ -51,12 +51,6 @@ I'm a passionate software engineer with a strong foundation in low-level program
 - **📊 Big Data**: Processing large datasets with Hadoop and PySpark
 - **👥 Team Collaboration**: Working effectively in agile development environments
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=33Domenico&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=33Domenico&layout=compact&theme=radical&hide_border=true)
-
 ## 🎯 Current Focus
 
 - 🧠 Advancing my expertise in **Artificial Intelligence** and **Data Analytics**
