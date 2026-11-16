@@ -1,8 +1,8 @@
-# Hi there, I'm Domeinco Scalera 👋
+# Hi there, I'm Domenico Scalera 👋
 ## 🚀 About Me
 
 🎓 **Bachelor's degree in Computer Engineering**  
-📚 **Currently pursuing a Master's degree in Artificial Intelligence and Data Analytics**
+📚 **Master's degree in Computer Engineering (Artificial Intelligence and Data Analytics)**
 
 I'm a passionate software engineer with a strong foundation in low-level programming and modern web technologies. My journey spans from ARM architecture and assembly language to cutting-edge AI and full-stack development.
 
@@ -28,6 +28,13 @@ I'm a passionate software engineer with a strong foundation in low-level program
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
+### LLM & Agentic AI
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square&logoColor=white)
+
 ### Tools & Methodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -38,6 +45,7 @@ I'm a passionate software engineer with a strong foundation in low-level program
 
 - **🏗️ Software Architecture**: Designing scalable and efficient software solutions
 - **🤖 Machine Learning**: Developing AI models and data analytics solutions  
+- **🧩 LLM Applications & Agents**: Building RAG pipelines and multi-agent workflows with LangChain and LangGraph, with observability via LangSmith and Langfuse
 - **💾 Systems Programming**: Low-level programming with Assembly and ARM architectures
 - **🌐 Full-Stack Development**: Building modern web applications with React and Node.js
 - **📊 Big Data**: Processing large datasets with Hadoop and PySpark
@@ -52,11 +60,12 @@ I'm a passionate software engineer with a strong foundation in low-level program
 ## 🎯 Current Focus
 
 - 🧠 Advancing my expertise in **Artificial Intelligence** and **Data Analytics**
+- 🕸️ Building **agentic RAG** systems and multi-agent workflows with **LangGraph**
 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/domenico-scalera-557183229)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenico-scalera-557183229)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:domenicoscalera87@gmail.com)
 
 ---
